@@ -21,6 +21,8 @@ purple <- blue/red
 
 ```
 
+push_test
+
 After making minimal changes, SAVE this .Rmd (default will be to the project folder, but check to make sure).
 
 Notice that if you click on the 'Git' tab (up by the Environment tab), now your newly created Project (.Rproj) and updated .Rmd are there (along with, probably, a gitignore file that you don't really need to worry about).
